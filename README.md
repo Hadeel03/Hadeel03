@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ghadeer <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/wave.gif" width="30px">
 
-<!--
-**Hadeel03/Hadeel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://i.pinimg.com/originals/69/6e/9d/696e9dfa1a3936bcbbe12ff28144939d.jpg)
 
-Here are some ideas to get you started:
+## A Software Engineer in making XD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my favorite skills 💪
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+## Let's Connect 👀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ghadeer03)
