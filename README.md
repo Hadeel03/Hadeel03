@@ -1,8 +1,8 @@
 <div style="position: relative; text-align: center; color: white;">
   <img src="https://i.pinimg.com/originals/69/6e/9d/696e9dfa1a3936bcbbe12ff28144939d.jpg" alt="Profile Banner" style="width:100%;">
-  <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); font-size: 24px;">
-    Hi, I'm Ghadeer <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/wave.gif" width="30px"><br>
-    A Software Engineer in making XD
+  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 24px;">
+    <p style="margin: 0;">Hi, I'm Ghadeer <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/wave.gif" width="30px"></p>
+    <p style="margin: 0;">A Software Engineer in making XD</p>
   </div>
 </div>
 
