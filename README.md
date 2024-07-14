@@ -1,7 +1,4 @@
-# Hi, I'm Ghadeer <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/wave.gif" width="30px">
-
-![Profile Banner](https://i.pinimg.com/originals/69/6e/9d/696e9dfa1a3936bcbbe12ff28144939d.jpg)
-
+# Hi, I'm Ghadeer 👋
 ## A Software Engineer in making XD
 
 ## Some of my favorite skills 💪
