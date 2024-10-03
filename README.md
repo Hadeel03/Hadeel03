@@ -1,7 +1,7 @@
 # Hi, I'm Ghadeer 👋
 ## A Software Engineer in making XD
 
-# Some of my favorite skills 💪
+# skills 💪
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
